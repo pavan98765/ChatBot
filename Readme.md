@@ -71,10 +71,6 @@ Before you begin, ensure you have the following installed on your system:
 
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgements
 
 - [Django](https://www.djangoproject.com/) - The web framework used
